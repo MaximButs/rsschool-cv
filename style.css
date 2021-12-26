@@ -1,0 +1,12 @@
+<div class="gray-background">
+    Текст, который будет выведен на сером фоне с отступами по 20 пикселей с каждой стороны.
+</div>
+
+<style>
+  .gray-background {
+padding: 10px 20px; 
+margin: 30px; 
+border: 5px 
+solid #040;
+  }
+</style>
