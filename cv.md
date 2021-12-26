@@ -58,4 +58,4 @@ namespace Project_1
   - [learn.epam.com](https://learn.epam.com/myLearning/program?groupGuid=b8907e77-e694-42a9-b845-462c2cb1ad00)
   
 ## **English**
-**A2** (I speak basic English fluently)
+**A2** (I speak basic English fluently).
